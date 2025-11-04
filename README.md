@@ -1,2 +1,13 @@
-# Main
-Repositorio para desarrollar la tematica: "Paradigma funcional de programacion"
+# Paradigma Funcional en Python
+
+Trabajo práctico para **Programación I** – Universidad Patagonia Argentina  
+Autores: Leandro y Vania
+
+---
+
+## Descripción
+
+Este proyecto explora los fundamentos del paradigma funcional utilizando Python.  
+Incluye un tutorial interactivo en Google Colab y una presentación complementaria en Canva.
+
+---
